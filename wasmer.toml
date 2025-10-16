@@ -6,4 +6,4 @@ version = "0.1.0"
 "php" = "latest"
 
 [script]
-start = "php -S 0.0.0.0:8080 me"
+start = "php -S 0.0.0.0:8080 index.php"
