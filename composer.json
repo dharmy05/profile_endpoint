@@ -1,0 +1,11 @@
+{
+    "name": "dammy/profile-endpoint",
+    "description": "a simple RESTful api endpoint",
+    "authors": [
+        {
+            "name": "dharmy05",
+            "email": "dharmy.dev05@gmail.com"
+        }
+    ],
+    "require": {}
+}
