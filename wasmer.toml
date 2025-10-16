@@ -1,0 +1,9 @@
+[package]
+name = "myapp"
+version = "0.1.0"
+
+[dependencies]
+"php" = "latest"
+
+[script]
+start = "php -S http://localhost:3000/me"
